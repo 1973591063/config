@@ -1,7 +1,0 @@
-server:
-  port: 3341
-
-spring:
-    application:
-      name: cloud-config3341
-
